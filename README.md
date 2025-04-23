@@ -41,7 +41,7 @@
 ### Test with broswer
 1. To test static, access "http://localhost/static/test.txt" <br> You can see 'hello rex' which is the content of static/test.txt.
 
-2. To test calc, access "http://localhost:8080/calc/mul/8/2", http://localhost:8080/calc/add/6/8, http://localhost:8080/calc/div/9/3 <br> You can see the calculation result.
+2. To test calc, access "http://localhost:8080/calc/mul/8/2", "http://localhost:8080/calc/add/6/8", "http://localhost:8080/calc/div/9/3" <br> You can see the calculation result.
 
 <br>
 

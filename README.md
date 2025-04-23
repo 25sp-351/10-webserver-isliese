@@ -34,7 +34,7 @@
  <br>
 
 ### How to Run the Server
-`python main.py` or `python3 main.py -p 80`
+`python3 main.py` or `python3 main.py -p 80`
 
  <br>
 
